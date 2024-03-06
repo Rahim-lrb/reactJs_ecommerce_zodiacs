@@ -24,13 +24,13 @@ Explore the project live [here](https://ecommerce-zodiacs.vercel.app/cart)!
 ## Screenshots
 
 ### Homepage
-[![Homepage]([![zodiac.png](https://i.postimg.cc/DZS3T3xc/zodiac.png)](https://postimg.cc/Q9ZyQwGB))
+[![Homepage](https://i.postimg.cc/DZS3T3xc/zodiac.png)](https://postimg.cc/Q9ZyQwGB)
 
 ### product Page
-[![product Page]([![zodiac2.png](https://i.postimg.cc/BvGjbNrD/zodiac2.png)](https://postimg.cc/QF08ngxx))
+[![product Page](https://i.postimg.cc/BvGjbNrD/zodiac2.png)](https://postimg.cc/QF08ngxx)
 
 ### cart Page
-[![cart Page]([![zodiac3.png](https://i.postimg.cc/RZCMDyxg/zodiac3.png)](https://postimg.cc/F7q5fPRS))
+[![cart Page](https://i.postimg.cc/RZCMDyxg/zodiac3.png)](https://postimg.cc/F7q5fPRS)
 
 ## Future Improvements
 
