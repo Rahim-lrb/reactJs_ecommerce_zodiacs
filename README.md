@@ -12,7 +12,7 @@ Welcome to my simple e-commerce project! This project is aimed at showcasing a f
 
 ## Demo
 
-Explore the project live [here](https://ecommerce-zodiacs.vercel.app/cart)!
+Explore the project live [here](https://ecommerce-zodiacs.vercel.app)!
 
 ## Technologies Used
 
